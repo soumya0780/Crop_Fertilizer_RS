@@ -1,2 +1,2 @@
-# week1-
- Crop &amp; Fertilizer Recommendation System Using ML
+Crop_Fertilizer_RS
+ This proect help us to develop an intelligent system for recommending suitable crops and fertilizers based on soil conditions,climate conditions.
